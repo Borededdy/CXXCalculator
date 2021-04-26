@@ -19,4 +19,6 @@ General math functions:
 If you want to be a translator please contact @Borededdy
 All info into the GitHub account.
 
+Thanks to @MGislv for his help in this project
+
 Thank you for the support! :)
